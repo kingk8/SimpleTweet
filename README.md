@@ -1,6 +1,6 @@
-# Project 2 - *Simple Tweet Part 2*
+# Project 2 - *SimpleTweet Part 2*
 
-**Simple Tweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **6** hours spent in total
 
@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/allan9595/SimpleTweet/blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kingk8/SimpleTweet/blob/master/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -62,7 +62,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2019] [BOHAN ZHANG]
+    Copyright [2019] [Markino Samuels]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -119,7 +119,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/allan9595/SimpleTweet/blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kingk8/SimpleTweet/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -134,7 +134,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2019] [bohan zhang]
+    Copyright [2019] [Markino Samuels]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
